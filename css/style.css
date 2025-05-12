@@ -27,3 +27,9 @@ html, body {
 .projects .card:hover {
   transform: scale(1.03);
 }
+
+@media screen and (max-width: 768px) {
+  .kecil {
+    width: 280px;
+  }
+}
